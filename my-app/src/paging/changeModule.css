@@ -1,0 +1,29 @@
+.steps-content {
+    margin-top: 36px;
+    border: 1px dashed #404040;
+    border-radius: 6px;
+    background-color: #404040;
+    min-height: 200px;
+    padding-top: 80px;
+    margin-left: 80px;
+    margin-right:80px;
+    text-align:center;
+}
+
+.steps-action {
+    margin-top: 36px;
+    margin-left:36px;
+}
+.change-module {
+    background: #ffffff;
+    height:800px;
+    width:70%;
+    margin-top:-36px;
+    position: absolute
+}
+.steps-title{
+    margin-left:36px;
+    margin-top:36px;
+    margin-right:36px;
+
+}
